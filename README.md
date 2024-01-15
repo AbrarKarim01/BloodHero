@@ -1,3 +1,3 @@
 # Blood Hero
-Blood Hero for emergency Blood to save lives
+Blood Hero for emergency Blood services to save lives
 
